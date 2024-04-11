@@ -5,7 +5,7 @@ We have included the TCNN codebook in this repository for research purposes. Sho
 
 https://doi.org/10.1016/j.bspc.2023.104812 [Shakarami, A., Nicolè, L., Terreran, M., Dei Tos, A. P., & Ghidoni, S. (2023). Tcnn: A transformer convolutional neural network for artifact classification in whole slide images. Biomedical Signal Processing and Control, 84, 104812.]
 
-![TCNN_Architecture](https://github.com/AshkanShakarami/TCNN/assets/101816571/918bdd8c-c72d-463d-ad6f-07f1085bfb4b)  -----------------------------------The proposed Transformer Convolutional Neural Network (TCNN) Architecture------------------------------------
+![TCNN_Architecture](https://github.com/AshkanShakarami/TCNN/assets/101816571/918bdd8c-c72d-463d-ad6f-07f1085bfb4b)  ----------------The proposed Transformer Convolutional Neural Network (TCNN) Architecture----------------
 
 
 What is the TCNN? The TCNN, or Transformer Convolutional Neural Network, introduced in this paper, aims to automate the detection of artifacts in pathological images. By treating artifact detection as a binary classification task, the TCNN offers a solution to identify these unwanted patterns that may arise during slide processing. This method alleviates the need for laboratory technicians to label manually, reducing the risk of erroneous data being sent for analysis by pathologists and physicians. Artifact patches, if not identified and excluded, can compromise the accuracy of Computer-Aided Diagnosis (CAD) systems.
