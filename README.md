@@ -1,5 +1,7 @@
 # TCNN
-TCNN: A Transformer Convolutional Neural Network for artifact classification in whole slide images published at [https://www.sciencedirect.com/science/article/pii/S1746809423002458]
+TCNN: A Transformer Convolutional Neural Network for artifact classification in whole slide images 
+
+published at [https://www.sciencedirect.com/science/article/pii/S1746809423002458]
 
 In this repository, we have included the TCNN codebook for research purposes. Should you utilize any concepts from the model, we kindly request that you acknowledge our work by providing proper attribution through citations.
 
