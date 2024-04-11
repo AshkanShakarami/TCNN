@@ -1,7 +1,7 @@
 # TCNN
 TCNN: A Transformer Convolutional Neural Network for artifact classification in whole slide images [https://www.sciencedirect.com/science/article/pii/S1746809423002458]
 
-We have included the TCNN codebook in this repository for research purposes (Should you utilize any concepts from the model, we kindly request that you acknowledge our work by providing proper attribution through citations). https://doi.org/10.1016/j.bspc.2023.104812 [Shakarami, A., Nicolè, L., Terreran, M., Dei Tos, A. P., & Ghidoni, S. (2023). Tcnn: A transformer convolutional neural network for artifact classification in whole slide images. Biomedical Signal Processing and Control, 84, 104812.]
+We have included the TCNN codebook in this repository for research purposes. Should you utilize any concepts from the model, we kindly request that you acknowledge our work by providing proper attribution through citations [Shakarami, A., Nicolè, L., Terreran, M., Dei Tos, A. P., & Ghidoni, S. (2023). Tcnn: A transformer convolutional neural network for artifact classification in whole slide images. Biomedical Signal Processing and Control, 84, 104812.]; https://doi.org/10.1016/j.bspc.2023.104812
 
 For inquiries, please feel free to contact Dr. Ashkan Shakarami (ashkan.shakarami@phd.unipd.it, ashkan.shakarami.ai@gmail.com) or any other authors listed in the paper.
 
