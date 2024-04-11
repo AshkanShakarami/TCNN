@@ -10,7 +10,4 @@ The TCNN, or Transformer Convolutional Neural Network, automates artifact detect
 ![TCNN_Outputs](https://github.com/AshkanShakarami/TCNN/assets/101816571/859bcb1b-3190-48f7-924a-9c8922f4640b)
 ------------The pictorial objective form of this paper. a) A tailed whole slide image using QuPath software, b) the result of tailing, and c) Non-Artifact tiles (The clean dataset).------------
 
-
 For inquiries, please contact Dr. Ashkan Shakarami (ashkan.shakarami@phd.unipd.it, ashkan.shakarami.ai@gmail.com) or any other authors listed in the paper.
-The required libraries are mentioned in the TCNN_Codes.ipynb file. We used Python version 3.9 for the Python library.
-
