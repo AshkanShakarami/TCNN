@@ -14,3 +14,5 @@ What is the TCNN? The TCNN, or Transformer Convolutional Neural Network, aims to
 ![TCNN_Outputs](https://github.com/AshkanShakarami/TCNN/assets/101816571/859bcb1b-3190-48f7-924a-9c8922f4640b)
 The pictorial objective form of this paper. a) A tailed whole slide image using QuPath software, b) the result of tailing, and c) Non-Artifact tiles (The clean dataset).
 
+The required libraries have been mentioned in the TCNN_Codes.ipynb file. For the Python library, We used Python version 3.6.
+
