@@ -7,7 +7,7 @@ In this repository, we have included the TCNN codebook for research purposes. Sh
 
 https://doi.org/10.1016/j.bspc.2023.104812 [Shakarami, A., Nicolè, L., Terreran, M., Dei Tos, A. P., & Ghidoni, S. (2023). Tcnn: A transformer convolutional neural network for artifact classification in whole slide images. Biomedical Signal Processing and Control, 84, 104812.]
 
-![TCNN_Architecture](https://github.com/AshkanShakarami/TCNN/assets/101816571/918bdd8c-c72d-463d-ad6f-07f1085bfb4b)
+![TCNN_Architecture](https://github.com/AshkanShakarami/TCNN/assets/101816571/918bdd8c-c72d-463d-ad6f-07f1085bfb4b) TCNN Architecture
 
 What is the TCNN? 
 
