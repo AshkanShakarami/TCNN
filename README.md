@@ -14,6 +14,3 @@ Should you utilize any concepts from the model, we kindly request that you ackno
 
 For inquiries, please contact Dr. Ashkan Shakarami (ashkan.shakarami@phd.unipd.it, ashkan.shakarami.ai@gmail.com) or any other authors listed in the paper.
 
-![TCNN_Insides](https://github.com/AshkanShakarami/TCNN/assets/101816571/52a23a70-57e0-4b87-906f-acd3148d5360)
-----------------Class Activation Map of TCNN on three different blocks for a randomly selected patch in the MDD.---------------
-
