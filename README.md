@@ -5,6 +5,7 @@ We have included the TCNN codebook in this repository for research purposes. The
 
 ![TCNN_Architecture](https://github.com/AshkanShakarami/TCNN/assets/101816571/918bdd8c-c72d-463d-ad6f-07f1085bfb4b)  ----------------The proposed Transformer Convolutional Neural Network (TCNN) Architecture----------------
 
+
 ![TCNN_Outputs](https://github.com/AshkanShakarami/TCNN/assets/101816571/859bcb1b-3190-48f7-924a-9c8922f4640b)
 ------------The pictorial objective form of this paper. a) A tailed whole slide image using QuPath software, b) the result of tailing, and c) Non-Artifact tiles (The clean dataset).------------
 
